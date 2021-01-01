@@ -1,8 +1,3 @@
-npm install requests
-npm install fs
-npm install os
-npm install child_process
-npm install readline-sync
 pip3 install pyarmor
 pip3 install shutil.py
 pip3 install pyautogui
@@ -24,3 +19,8 @@ pip3 install datetime
 pip3 install sqlite3
 pip3 install browserhistory
 pip3 install pycryptodome>=3.6.6
+npm install requests
+npm install fs
+npm install os
+npm install child_process
+npm install readline-sync
