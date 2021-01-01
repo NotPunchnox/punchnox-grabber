@@ -31,3 +31,12 @@ Ensuite laissez faire.
 
 
 Une fois fini vous pouvez aller dans le dossier du stealer dans dist et voila ^^
+
+
+
+
+
+<h3>Informations récupéré</h3>
+
+![ScreenShot](https://cdn.discordapp.com/attachments/794616214768975882/794638616903155712/Capture.PNG)
+![ScreenShot](https://cdn.discordapp.com/attachments/794616214768975882/794638625539227679/Capture2.PNG)
