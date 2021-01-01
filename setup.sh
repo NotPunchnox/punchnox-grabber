@@ -1,5 +1,5 @@
 pip3 install pyarmor
-pip3 install shutil.py
+pip3 install pytest-shutil
 pip3 install pyautogui
 pip3 install ctypes
 pip3 install uuid
