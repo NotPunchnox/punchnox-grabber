@@ -3,7 +3,7 @@
 <h3>CE PROGRAMME A ETE FAIT DANS UN BUT EDUCATIF</h3>
 
 __**Utiliser ce programme sur une machine qui ne vous appartient pas ou à des fins malveillantes est totalement ILLEGALE**__
-Donc je ne suis en aucun cas responsable vos etes les seules responsables de vos actes
+Donc je ne suis en aucun cas responsable vous etes les seules responsables de vos actes
 
 
 
